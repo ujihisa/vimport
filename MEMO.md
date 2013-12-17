@@ -44,3 +44,9 @@ Buffer-local options
 
 * `gf` to verify each
 * `:checkpath!` to verify all
+
+## Libraries embedded
+
+* luaregex.lua
+    * public domain
+    * http://apostata.web.fc2.com/luaregex/
